@@ -1,2 +1,2 @@
-# cool_leg
-an archive of my uni files
+# uni_projects
+an archive of all projects I have made or worked on during my time at ERAU
