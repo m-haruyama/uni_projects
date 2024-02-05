@@ -1,0 +1,2 @@
+This is a generic plaintext that will be encrypted by the program and produce a text file called "cipher.txt".
+Hopefully it works.
